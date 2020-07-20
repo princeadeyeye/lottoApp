@@ -1,1 +1,1 @@
-# lottoApp
+A simple number generator with react
